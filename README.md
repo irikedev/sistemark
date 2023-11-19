@@ -31,7 +31,7 @@ O Sistema RK é uma aplicação web desenvolvida para facilitar a gestão de dad
 
 ## Instalação
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/rk.git`
+1. Clone este repositório: `git clone https://github.com/irikedev/sistemark.git`
 2. Configure o servidor web para apontar para o diretório clonado.
 3. Importe o esquema do banco de dados.
 4. Configure as informações do banco de dados.
